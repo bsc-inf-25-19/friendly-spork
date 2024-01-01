@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/report_gen" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
